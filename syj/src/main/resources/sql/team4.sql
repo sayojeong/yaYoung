@@ -115,7 +115,7 @@ CREATE TABLE ins_class_vid
 );
 
 
--- 선생님 놑트
+-- 학생 노트
 CREATE TABLE note_st
 (
 	-- 학생노트 번호
