@@ -1,4 +1,4 @@
-package swdo.team4.yayoung;
+package swdo.team4.yayoung.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
